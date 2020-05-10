@@ -1,13 +1,13 @@
-repository: francolmenar-UC3M/francolmenar-UC3M.github.io
+repository: francolmenar/francolmenar.github.io
 
 
 layout: sidebar
 style: light
 show_hire: "false" # To Display the Available for hire or not, even if you are not in a company
-show_projects: "true"
+show_projects: "false"
 show_tech: "true"
 show_organizations: "true"
-show_topics: "false"
+show_topics: "true"
 is_organization: "true"  # To display the bio or the description
 
 
@@ -30,12 +30,12 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 4
+  limit: 9
   exclude:
     archived: false
     forks: false
     projects:
-      - francolmenar-UC3M.github.io
+      - francolmenar.github.io
 
 social_media:
   # behance: your_username
@@ -65,9 +65,9 @@ topics:
   Zcash: "true"
 
 organizations:
-  Francolmenar: "true"
+  Francolmenar: "false"
   Personal Projects: "true"
-  UC3M: "false"
+  UC3M: "true"
   UT: "true"
   USYD: "true"
   VUW: "true"
@@ -76,7 +76,7 @@ technologies:
   # Bitcoin: "true"
   C: "true"
   # CSS: "true"
-  # Docker: "true"
+  Docker: "true"
   # Ethereum: "true"
   # Firebase: "true"
   # HTML: "true"
@@ -84,7 +84,7 @@ technologies:
   # JavaScript: "true"
   # Jupyter Notebook: "true"
   # Monero: "true"
-  # Python: "true"
+  Python: "true"
   # React: "true"
-  # Rust: "true"
+  Rust: "true"
   SQL: "true"
