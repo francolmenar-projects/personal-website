@@ -8,7 +8,7 @@ show_projects: "false"
 show_tech: "true"
 show_organizations: "true"
 show_topics: "true"
-is_organization: "true"  # To display the bio or the description
+is_organization: "false"  # To display the bio or the description
 
 
 plugins:
