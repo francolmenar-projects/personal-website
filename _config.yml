@@ -58,7 +58,9 @@ social_media:
 topics:
   # CSS: "true"
   # Cryptocurrency: "true"
-  Flutter: "true"
+  # ES: "true"
+  # Flutter: "true"
+  HTB: "true"
   # Monero: "true"
   # Security: "true"
   Rust: "true"
@@ -73,10 +75,12 @@ organizations:
   VUW: "true"
 
 technologies:
+  AWS: "true"
   # Bitcoin: "true"
   C: "true"
   # CSS: "true"
-  Docker: "true"
+  # Docker: "true"
+  ES: "true"
   # Ethereum: "true"
   # Firebase: "true"
   # HTML: "true"
@@ -86,5 +90,6 @@ technologies:
   # Monero: "true"
   Python: "true"
   # React: "true"
-  Rust: "true"
-  SQL: "true"
+  # Rust: "true"
+  # SQL: "true"
+  Terraform: "true"
